@@ -26,5 +26,5 @@ At the current pace of innovation, this table can become quickly outdated. Feel 
 ## Comments
 
 - <a name="alpaca"></a>Alpaca: First evidence that small-high quality data can make a relatively small LLM competitive with much bigger models, LLaMA fine-tuned at a cost of ~600USD (dataset gen + training)
-- <a name="vicuna"></a>Alpaca Another LLaMA with model, which GPT-4 grades better than ChatGPT and Alpaca.  Fine-tuned at a cost of ~300USD 
-- <a name="koala"></a> Another LLaMA with model fine-tuned on large, partially propietary dialog dataset, with comparable performance to Alpaca according to human evaluators.
+- <a name="vicuna"></a>Vicuna: Another LLaMA with model, which GPT-4 grades better than ChatGPT and Alpaca.  Fine-tuned at a cost of ~300USD 
+- <a name="koala"></a> Koala: Another LLaMA with model fine-tuned on large, partially propietary dialog dataset, with comparable performance to Alpaca according to human evaluators.
